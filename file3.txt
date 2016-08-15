@@ -1,1 +1,3 @@
 git master
+svn is not good over git
+git is ruling
